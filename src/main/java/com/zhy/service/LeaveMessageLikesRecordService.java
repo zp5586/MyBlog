@@ -3,7 +3,7 @@ package com.zhy.service;
 import com.zhy.model.LeaveMessageLikesRecord;
 
 /**
- * @author: zhangocean
+ * @author: zhangpeng
  * @Date: 2018/7/16 15:30
  * Describe:留言中点赞业务操作
  */

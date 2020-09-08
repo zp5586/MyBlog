@@ -4,7 +4,7 @@ import com.zhy.model.Reward;
 import com.zhy.utils.DataMap;
 
 /**
- * @author: zhangocean
+ * @author: zhangpeng
  * @Date: 2019/7/14 15:44
  * Describe:
  */

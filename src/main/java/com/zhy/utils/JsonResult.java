@@ -6,7 +6,7 @@ import com.zhy.constant.CodeType;
 import java.util.LinkedHashMap;
 
 /**
- * @author: zhangocean
+ * @author: zhangpeng
  * @Date: 2019/11/4 18:56
  * Describe: 控制层Json数据处理
  */

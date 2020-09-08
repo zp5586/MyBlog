@@ -1,7 +1,7 @@
 package com.zhy.constant;
 
 /**
- * @author: zhangocean
+ * @author: zhangpeng
  * @Date: 2019/11/18 15:51
  * Describe: 状态返回码
  */

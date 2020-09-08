@@ -3,7 +3,7 @@ package com.zhy.aspect.annotation;
 import java.lang.annotation.*;
 
 /**
- * @author: zhangocean
+ * @author: zhangpeng
  * @Date: 2019/11/1 13:25
  * Describe:
  */
